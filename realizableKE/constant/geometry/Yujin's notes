@@ -1,0 +1,3 @@
+Yujin's notes:
+A geometry file/files (e.g. stl) is/are located in this location. The purpose of my post on this github website is to introduce the example of my CFD code that was used for the sensitivity study in my PhD study.
+Therefore, any geometry files can be inserted under this folder when users who want to refer to my CFD code example, test their geometries for their research purposes.
